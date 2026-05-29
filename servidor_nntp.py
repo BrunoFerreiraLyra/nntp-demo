@@ -7,7 +7,7 @@ groups = {
         "From: aluno@nntp.com\r\nSubject: Como funciona o NNTP?\r\n\r\nO NNTP usa comandos de texto simples para trocar mensagens."
     ],
     "alt.test": [
-        "From: teste@nntp.com\r\nSubject: Teste NNTP ao vivo\r\n\r\nEste artigo foi postado durante a apresentacao!"
+        "From: teste@nntp.com\r\nSubject: Teste NNTP ao vivo\r\n\r\nEste e um artigo de teste do grupo alt.test."
     ]
 }
 
