@@ -86,7 +86,7 @@ def handle_client(conn, addr):
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-server.bind(('0.0.0.0', 1119))
+server.bind(('0.0.0.0', 119))
 server.listen(5)
 print("========================================")
 print("Servidor NNTP rodando na porta 1119")
