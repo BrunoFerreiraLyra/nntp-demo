@@ -89,7 +89,7 @@ server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 server.bind(('0.0.0.0', 119))
 server.listen(5)
 print("========================================")
-print("Servidor NNTP rodando na porta 1119")
+print("Servidor NNTP rodando na porta 119")
 print("Aguardando conexoes...")
 print("========================================")
 
